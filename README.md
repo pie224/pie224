@@ -11,7 +11,7 @@ Hello! I am Pedro, a student passionate about the world of programming. I am cur
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pie224&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Proyectos:
-![gif](gif.gif)
+<a href="https://github.com/pie224/Options"><img src="https://github.com/pie224/Options/blob/main/gif.gif" style="height: 60%; width:60%;"/></a>>
 
 [![Options](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Options%20)](https://github.com/pie224/Options)
 
