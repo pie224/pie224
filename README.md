@@ -14,6 +14,10 @@ Hello! I am Pedro, a student passionate about the world of programming. I am cur
 ## Options
 <a href="https://github.com/pie224/Options"><img src="https://github.com/pie224/Options/blob/main/gif.gif" style="height: 60%; width:60%;"/></a>
 
+## Theme-switcher
+<a href="https://github.com/pie224/theme-switcher-i3.git"><img src="https://github.com/pie224/pie224/blob/main/today-2024-10-20_22-54.png?raw=true" style="height: 60%; width:60%;"/></a>
+
+
 [![Options](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Options%20)](https://github.com/pie224/Options)
 
 ### ✍️ Random Dev Quote
